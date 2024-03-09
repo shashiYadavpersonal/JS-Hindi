@@ -16,5 +16,6 @@ because of issue in block scope and functional scope
 console.table([accountEmail, accountCity, accountPassword, accountId,accountState])
 
 console.log(typeof null) // object
+console.log(typeof undefined)
 
 
